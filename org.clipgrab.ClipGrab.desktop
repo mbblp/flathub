@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=ClipGrab
+Comment=A friendly downloader for YouTube and other sites
+Categories=Network;Qt;
+
+Icon=org.clipgrab.ClipGrab
+Exec=clipgrab
+Terminal=false

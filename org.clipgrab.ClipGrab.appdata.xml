@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.clipgrab.ClipGrab</id>
+  
+  <name>ClipGrab</name>
+  <summary>A friendly downloader for YouTube and other sites</summary>
+  
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  
+  <description>
+    <p>
+      ClipGrab is a free downloader and converter for YouTube, Vimeo, Facebook and many other online video sites. It converts downloaded videos to MPEG4, MP3 or other formats in just one easy step.
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">org.clipgrab.ClipGrab.desktop</launchable>
+</component>
